@@ -27,6 +27,7 @@ Last synced: 2026-10-06 (Asia/Taipei)
 | 15 | PRO360 | 1000+ multi-source customer data consolidation | TBD | High priority / login needed | Revalidated 2026-10-06: online, 1000+ rows, multiple files/formats, unify into one master table, one-month window | Login → inspect file count/schema → free proposal only; price after workload sizing |
 | 16 | PRO360 | Taichung North 1–50-row Excel data entry | TBD | Quick-win / login needed | Revalidated 2026-10-06: certified request, online, 1–50 rows, 1–100 chars, Chinese/numeric/English, no fixed deadline | Login → if free quote path exists, confirm source/columns and submit immediately |
 | 17 | PRO360 | ~100 company data enrichment | Suggested NT$3,200 baseline | High priority / reusable assets / login needed | Revalidated public listing 2026-10-06; scope matches old Case 01: phone, tax ID, founding year, responsible person | Login → verify still accepts quote → reuse Case 01 demo/template/skeleton/QA; free proposal only |
+| 18 | Upwork | Public business directory A–Z scraping/research | US$30 shown; full price should be scoped | Candidate / proposal ready / 0 Connects | Fresh Oct 5 listing screened; client ~US$13K spent / 224 hires; proposal + Scrapy-assisted execution/QA plan committed | Keep for free Connects/invitation; accept US$30 only as paid test/small milestone, not blindly for entire several-hundred-record directory |
 
 ## Active blockers
 - **Upwork:** profile is live and currently 95% complete. Two truthful portfolio items are published. Account Connects balance is 0. Basic membership explicitly shows **0 Connects per month** and Connects History currently has no credits/transactions. This does **not** prove the account can never receive free Connects; onboarding/activity/promotion rewards can still appear.
@@ -65,4 +66,5 @@ Last synced: 2026-10-06 (Asia/Taipei)
 7. Tasker Case 11 — NT$10,000 number-to-Excel candidate
 8. Tasker Case 12 — NT$1,000 quick Excel form if under ~1 hour
 9. Tasker Case 13 — NT$5,000 accounting PDF→Excel if page count/quality are viable
-10. Continue Upwork free-Connects/onboarding checks without spending money
+10. Upwork Case 18 — public directory scraping; proposal ready, only via free Connects/invitation and scope price correctly
+11. Continue Upwork free-Connects/onboarding checks without spending money
