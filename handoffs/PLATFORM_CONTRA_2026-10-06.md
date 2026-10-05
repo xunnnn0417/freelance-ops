@@ -18,9 +18,15 @@ Contra 官方 2026 說明顯示：Independent 可免費建立 profile、找工�
 - `xunnnn0417/financial-research-assistant`
 - Upwork 已用過的兩份 portfolio 文案可改成 Contra project descriptions。
 
-## 立即動作
-1. 建立/登入 Contra Independent profile。
-2. 用最小資訊完成可投狀態：照片、一句定位、核心 skills、2 個 project examples。
-3. 搜尋 data entry / research / data analysis / operations / Python automation / spreadsheet / AI ops。
-4. 每個值得投的案建立 `標案NN｜Contra｜簡稱｜狀態` 並同步 CASE_INDEX。
-5. 能免費 Apply 就直接推進；登入、OAuth、身份驗證或法律條款需本人操作時才停。
+## 2026-10-06 live read-back / blocker
+- 已讀 `WORKFLOW.md`、`CASE_INDEX.md` 與本 handoff。
+- 已實際開啟 `https://contra.com/jobs` 檢查；目前瀏覽器沒有 Contra 登入狀態。
+- `/jobs` 會導向 `/log-in?redirectTo=%2Fjobs`，因此目前無法檢查 Independent profile、查看登入後 job feed 或免費 Apply。
+- 這屬於 user-only login/OAuth boundary；沒有購買、沒有接受法律條款。
+- 公開搜尋已確認 Contra 目前仍有 Data Analyst、Data Entry、Python/market research、web scraping/spreadsheet 類供需頁面；登入後優先以這些關鍵字掃 job feed。
+
+## 下一步（登入後立即續跑）
+1. 檢查 Independent profile 最小可投狀態：照片、一句定位、核心 skills、2 個 project examples；只補阻礙 Apply 的欄位。
+2. 搜尋 data entry / research / data analysis / operations / Python automation / spreadsheet / AI ops。
+3. 每個值得投的案建立 `標案NN｜Contra｜簡稱｜狀態` 並同步 CASE_INDEX。
+4. 能免費 Apply 就直接推進；身份驗證、付款或正式法律條款需本人操作時才停。
