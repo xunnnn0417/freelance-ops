@@ -11,16 +11,18 @@ Last synced: 2026-10-06 (Asia/Taipei)
 | 05 | Tasker | Excel performance file reconstruction | NT$500 | Candidate / login blocked | Public listing showed remote work and existing proposals | Log into Tasker, inspect full scope; only pursue if effective hourly value is acceptable |
 | 06 | Tasker | Video numeric-data extraction/organization | NT$10,000 | High-priority Taiwan candidate / login blocked | Public summary suggested extracting numeric values from video/images and calculating/organizing results; public page showed no proposals at check time | Log into Tasker, inspect exact scope and data volume before quoting |
 | 07 | Upwork | Taiwan Traditional Chinese speech recording + verbatim/ITN annotation | Rate not publicly clear | Candidate | Strong historical client profile and low proposal count noted; payment economics uncertain | After profile publish, inspect current offer/rate and QA/rework economics before applying |
+| 08 | Upwork | Data Entry Specialist | US$50 fixed | Candidate / proposal ready | Safety + client history screened; proposal and execution/QA plan written; 50+ proposals but 0 interviewing at check | After profile publish, inspect Connects and exact source volume; apply only if Connects/value remain sensible |
 
 ## Active blockers
 - **Upwork:** registration complete; freelancer profile is at step 10/10. Profile title is focused on Web Research & Data Entry with Excel/Google Sheets/Data Cleaning, 15 relevant skills are selected, current education and languages are entered, overview is complete, and hourly rate is US$15. The remaining step requires user-supplied photo, date of birth, street address, city, state/province, ZIP/postal code, and phone. Do not guess or commit these personal details to this public repository.
 - **Tasker:** account login required to inspect full briefs.
-- **GitHub:** `freelance-ops` created public on 2026-10-06. Public/sanitized data only until visibility changes.
+- **GitHub:** `freelance-ops` is public. Public/sanitized data only until visibility changes.
 
 ## Priority order
-1. Case 04 — Kikitora-style software screen recording
+1. Case 04 — software screen recording
 2. Case 02 — Social Media Data Entry
 3. Case 03 — 50-company B2B contact research
 4. Case 06 — Taiwan video numeric-data project once Tasker is logged in
-5. Case 07 — Taiwan Mandarin recording/annotation after economics check
-6. Case 05 — small Excel reconstruction only if quick
+5. Case 08 — Data Entry Specialist (strong client history, but 50+ proposals)
+6. Case 07 — Taiwan Mandarin recording/annotation after economics check
+7. Case 05 — small Excel reconstruction only if quick
