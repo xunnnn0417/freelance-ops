@@ -12,6 +12,7 @@ Last synced: 2026-10-06 (Asia/Taipei)
 | 06 | Tasker | Video numeric-data extraction/organization | NT$10,000 | High-priority Taiwan candidate / login blocked | Public summary suggested extracting numeric values from video/images and calculating/organizing results; public page showed no proposals at check time | Log into Tasker, inspect exact scope and data volume before quoting |
 | 07 | Upwork | Taiwan Traditional Chinese speech recording + verbatim/ITN annotation | Rate not publicly clear | Candidate | Strong historical client profile and low proposal count noted; payment economics uncertain | Inspect current offer/rate and Connects requirement before applying |
 | 08 | Upwork | Data Entry Specialist | US$50 fixed | Candidate / proposal ready | Safety + client history screened; proposal and execution/QA plan written; 50+ proposals but 0 interviewing at check | Inspect Connects and exact source volume; apply only if Connects/value remain sensible |
+| 09 | Upwork | Cross-reference 645 contacts with SwarmCRM | US$60 fixed | Candidate / proposal ready | Fresh listing screened; client US$652 spent / 4 hires; proposal, economics, open-source QA options, and execution plan written | Inspect Connects requirement; only apply if free/available Connects and expected throughput make economics sensible; client CRM access + master file required after hire |
 
 ## Active blockers
 - **Upwork:** freelancer profile is now published. Current account Connects balance observed on Case 04 is 0. Case 04 requires 15 Connects, so application is blocked at the paid-Connects boundary unless free Connects can be earned/claimed first.
@@ -31,6 +32,7 @@ Last synced: 2026-10-06 (Asia/Taipei)
 3. Case 02 — Social Media Data Entry
 4. Case 03 — 50-company B2B contact research
 5. Case 06 — Taiwan video numeric-data project once Tasker is logged in
-6. Case 08 — Data Entry Specialist (strong client history, but 50+ proposals)
-7. Case 07 — Taiwan Mandarin recording/annotation after economics check
-8. Case 05 — small Excel reconstruction only if quick
+6. Case 09 — SwarmCRM 645-contact reconciliation (clear scope; economics depend on throughput/Connects)
+7. Case 08 — Data Entry Specialist (strong client history, but 50+ proposals)
+8. Case 07 — Taiwan Mandarin recording/annotation after economics check
+9. Case 05 — small Excel reconstruction only if quick
