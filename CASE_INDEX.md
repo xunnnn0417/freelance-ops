@@ -34,6 +34,7 @@ Last synced: 2026-10-06 (Asia/Taipei)
 | 22 | PRO360 | Taichung Excel formula design | NT$800–3,000 framework | Candidate / prepared / paid manual-quote barrier | Public listing: formula design, 501–1000 rows, one week, online; safety/delivery/proposal/QA committed | Only inspect workbook after zero-cost contact path; no VBA/complex-model promise before seeing file |
 | 23 | PRO360 | Xinyi 1–50-row Excel data entry | NT$500–1,500 framework | **New quick-win / prepared / paid manual-quote barrier** | Public listing: online, 1–50 rows, no deadline, no extra requirements; safety/delivery/proposal/QA committed | Strong backup to Case 16; zero-cost route only |
 | 24 | PRO360 | Wanhua 101–300-row Excel data entry | NT$1,200–3,500 framework | Candidate / prepared / paid manual-quote barrier | Public listing: online option, 101–300 rows, one-week delivery; safety/delivery/proposal/QA committed | Keep ready; zero-cost route only |
+| 25 | Upwork | AI lead-generation system demo (Instagram/YouTube filtering) | US$20–50/hr shown | **New candidate / proposal ready / 0 Connects** | Oct 5 fresh listing screened; bounded-demo proposal + execution/QA + open-source options committed; unpaid-demo risk explicitly bounded | Apply only via free Connects/invitation; offer limited PoC, never a full production build for free |
 
 ## Active blockers
 - **Upwork:** profile is live and currently 95% complete. Two truthful portfolio items are published. Account Connects balance is 0. Basic membership explicitly shows **0 Connects per month** and Connects History currently has no credits/transactions. This does **not** prove the account can never receive free Connects; onboarding/activity/promotion rewards can still appear. Project Catalog is a proven no-Connects path and remains active work.
@@ -79,5 +80,6 @@ Last synced: 2026-10-06 (Asia/Taipei)
 13. PRO360 Case 23 — strongest new PRO360 quick-win backup; 1–50 rows, online, no deadline.
 14. PRO360 Case 24 — 101–300 rows, one week.
 15. PRO360 Case 22 — formula design; scope-sensitive.
-16. Upwork Case 18 — public directory scraping; proposal ready, only via free Connects/invitation and scope price correctly.
-17. Continue Upwork free-Connects/onboarding checks without spending money.
+16. Upwork Case 25 — AI lead-gen demo; bounded PoC only, no full unpaid build; free Connects/invitation only.
+17. Upwork Case 18 — public directory scraping; proposal ready, only via free Connects/invitation and scope price correctly.
+18. Continue Upwork free-Connects/onboarding checks without spending money.
