@@ -19,16 +19,18 @@ Last synced: 2026-10-06 (Asia/Taipei)
 | 07 | Upwork | Taiwan Traditional Chinese speech recording + verbatim/ITN annotation | Rate not publicly clear | Candidate / 0 Connects | Strong historical client profile and low proposal count noted; payment economics uncertain | Keep available for free Connects/invitation/free route |
 | 08 | Upwork | Data Entry Specialist | US$50 fixed | Candidate / 0 Connects | Safety + client history screened; proposal and execution/QA plan written; 50+ proposals but 0 interviewing at check | Keep available for free Connects/invitation/free route |
 | 09 | Upwork | Cross-reference 645 contacts with SwarmCRM | US$60 fixed | Candidate / 0 Connects | Fresh listing screened; client US$652 spent / 4 hires; proposal, economics, open-source QA options, and execution plan written | Keep available for free Connects/invitation/free route |
-| 10 | Tasker | TAIFEX PDF ~100,000 trades to Excel + P/L | NT$10,000 | **Closed** | 2026-10-06 direct case page confirms closed / no proposals | None; stop spending time |
+| 10 | Tasker | TAIFEX PDF ~100,000 trades to Excel + P/L | NT$10,000 | **Closed on direct-page recheck; keep as watch/reopen priority** | 2026-10-06 direct case page previously confirmed closed even though some category search results still cache 我要提案 | Recheck only if direct page reopens; do not submit based on stale list cache |
 | 11 | Tasker | Enter numbers into Excel | NT$10,000 | **Closed** | 2026-10-06 direct page for TK26090508VIPO04 confirms closed | None |
 | 12 | Tasker | Excel postal remittance form for dot-matrix printer | NT$1,000 | Quick-win / public search still shows 我要提案 / login blocked | 2026-10-06 search still shows active; proposal + print-alignment QA prepared | Login → verify direct page/paper specs → submit if free and ~1 hour scope |
-| 13 | Tasker | Accounting PDF to Excel | NT$5,000 | Candidate / free general proposal / login blocked | Public listing scope is journal/ledger/voucher PDFs to Excel | Inspect PDF quality/page count and required schema before bidding |
+| 13 | Tasker | Accounting PDF to Excel | NT$5,000 | **High-fit candidate / public 我要提案 / login blocked** | Public listing remains visible; journal/ledger/voucher PDFs → Excel; proposal + QA ready | Login → inspect PDF page count/quality/schema → submit if free |
 | 14 | PRO360 | Taipei Zhongzheng Excel data entry, 3-day deadline | TBD | High priority / login needed | Revalidated 2026-10-06: certified request, online service, Excel data entry, 3-day delivery; volume unspecified | Login → inspect full scope → submit only if free quote/contact route exists |
 | 15 | PRO360 | 1000+ multi-source customer data consolidation | TBD | High priority / login needed | Revalidated 2026-10-06: online, 1000+ rows, multiple files/formats, unify into one master table, one-month window | Login → inspect file count/schema → free proposal only; price after workload sizing |
 | 16 | PRO360 | Taichung North 1–50-row Excel data entry | TBD | Quick-win / login needed | Revalidated 2026-10-06: certified request, online, 1–50 rows, 1–100 chars, Chinese/numeric/English, no fixed deadline | Login → if free quote path exists, confirm source/columns and submit immediately |
 | 17 | PRO360 | ~100 company data enrichment | Suggested NT$3,200 baseline | High priority / reusable assets / login needed | Revalidated public listing 2026-10-06; scope matches old Case 01: phone, tax ID, founding year, responsible person | Login → verify still accepts quote → reuse Case 01 demo/template/skeleton/QA; free proposal only |
 | 18 | Upwork | Public business directory A–Z scraping/research | US$30 shown; full price should be scoped | Candidate / proposal ready / 0 Connects | Fresh Oct 5 listing screened; client ~US$13K spent / 224 hires; proposal + Scrapy-assisted execution/QA plan committed | Keep for free Connects/invitation; accept US$30 only as paid test/small milestone, not blindly for entire several-hundred-record directory |
-| 19 | Tasker | Word quality-plan formatting | NT$1,500 | **Quick-win / free proposal / login blocked** | 2026-10-06 direct case TK26092422ELMC52 active; remote; page explicitly says free proposal, further negotiation needs TaskerGo; proposal + QA committed | Login → inspect page count/format complexity → free submit only if ~1–2 hour scope |
+| 19 | Tasker | Word quality-plan formatting | NT$1,500 | Quick-win / free proposal / login blocked | Direct case active; remote; proposal + QA prepared | Login → inspect page count/format complexity → free submit only if ~1–2 hour scope |
+| 20 | Tasker | Number data entry, ~3–4 hours | NT$1,000 | **Quick-win / public 我要提案 / login blocked** | 2026-10-06 public listing: numeric data entry, ~3–4 hours, extra pay if overtime, accepts AI collaboration; safety/delivery/proposal/QA committed | Login → verify direct page still active → submit ordinary free proposal |
+| 21 | Tasker | Word-transcribed content to Excel | TBD | Candidate / public 我要提案 / login blocked | Direct page TK26081101TTCS63 visible; Word already converted from recording; needs Excel structure; safety/delivery/proposal/QA committed | Login → inspect full fields; bid only if Word text is already supplied and free proposal path remains |
 
 ## Active blockers
 - **Upwork:** profile is live and currently 95% complete. Two truthful portfolio items are published. Account Connects balance is 0. Basic membership explicitly shows **0 Connects per month** and Connects History currently has no credits/transactions. This does **not** prove the account can never receive free Connects; onboarding/activity/promotion rewards can still appear. Project Catalog is a proven no-Connects path and remains active work.
@@ -62,11 +64,14 @@ Last synced: 2026-10-06 (Asia/Taipei)
 1. **Upwork Project Catalog draft 2107203936856860845** — no Connects path; finish category → Pricing → Gallery → Requirements → Description → Review.
 2. PRO360 Case 16 — 1–50-row Excel quick-win: login → free quote if available.
 3. PRO360 Case 17 — ~100 company enrichment: reuse Case 01 assets → free quote if still open.
-4. Tasker Case 06 — NT$10,000 video numeric-data project: login → inspect full brief → free proposal if scope matches.
-5. Tasker Case 19 — NT$1,500 Word formatting quick-win if ~1–2 hours.
-6. Tasker Case 12 — NT$1,000 Excel dot-matrix remittance form if ~1 hour and still directly active.
-7. PRO360 Case 14 — 3-day Excel data entry: inspect volume → free quote if viable.
-8. PRO360 Case 15 — 1000+ multi-source consolidation: size workload → free quote if viable.
-9. Tasker Case 13 — NT$5,000 accounting PDF→Excel if page count/quality are viable.
-10. Upwork Case 18 — public directory scraping; proposal ready, only via free Connects/invitation and scope price correctly.
-11. Continue Upwork free-Connects/onboarding checks without spending money.
+4. **Tasker Case 06** — NT$10,000 video numeric-data project: highest active Tasker priority; login → free proposal.
+5. **Tasker Case 20** — NT$1,000 numeric data quick-win: ~3–4 hours, clear scope, fastest-cash candidate; login → free proposal.
+6. **Tasker Case 13** — NT$5,000 accounting PDF→Excel: high fit; login → inspect page count/quality → free proposal.
+7. Tasker Case 19 — NT$1,500 Word formatting quick-win if ~1–2 hours.
+8. Tasker Case 12 — NT$1,000 Excel dot-matrix remittance form if ~1 hour and still directly active.
+9. Tasker Case 21 — Word→Excel; scope after login.
+10. Tasker Case 10 — maintain watch priority only if direct page reopens; current direct-page state is closed.
+11. PRO360 Case 14 — 3-day Excel data entry: inspect volume → free quote if viable.
+12. PRO360 Case 15 — 1000+ multi-source consolidation: size workload → free quote if viable.
+13. Upwork Case 18 — public directory scraping; proposal ready, only via free Connects/invitation and scope price correctly.
+14. Continue Upwork free-Connects/onboarding checks without spending money.
