@@ -36,9 +36,9 @@ Account facts:
 Observed suitable jobs:
 - Type bank statement transactions from PDF into CSV — US$250 fixed, 13 Connects, payment verified. High functional fit, but 50+ proposals.
 - Research and Enhance Sales Prospecting List with Leadership Contacts — US$75 fixed, 13 Connects, payment verified. Good fit but attachment must be reviewed before applying.
-- Data Extraction PDF and Website & Data Entry Specialist — US$30 fixed, payment verified; moderate competition.
+- Data Extraction PDF and Website & Data Entry Specialist — US$30 fixed, payment verified, 5.0 rating, US$4K+ spent, 20–50 proposals, **10 Connects**.
 
-100 Connects supports roughly seven 13-Connect applications (91 Connects) plus 9 remaining.
+Current first three shortlisted applications would use 13 + 13 + 10 = **36 Connects**, leaving 64 Connects for additional screened jobs. 100 Connects supports roughly seven 13-Connect applications (91 Connects) plus 9 remaining.
 
 Conclusion:
 - US$9.99 promo is better value than buying 100 Connects for US$15 if we intend to bid.
