@@ -45,6 +45,9 @@ Last synced: 2026-10-06 (Asia/Taipei)
 | 29 | Contra | Marketing Assistant for Launch Campaign | US$1,500–2,500 fixed | **Contra priority #2 / conditional fit / login-to-apply** | Public remote marketing page rechecked 2026-10-06: 6-week fixed project, PST; proposal/ops QA prepared without claiming senior marketing experience | Login → confirm role is research/launch ops rather than senior paid-media ownership → free Apply if fit |
 | 30 | Contra | AI-Powered Digital Ops Lead | US$40–65/hr, 20 hrs/wk | **Contra priority #3 / high-value / experience gate pending** | Public featured tech page rechecked 2026-10-06: ongoing, GMT 0, remote or UK preferred; transparent proposal + automation QA prepared | Login → confirm UK preference vs requirement and lead/seniority expectations → free Apply only if hands-on builder scope fits |
 
+| 31 | Tasker | EViews outputs to tables | NT$10,000 | **High-priority new candidate / 0 public proposals / free proposal** | Direct page TK26072719OXKV71 rechecked 2026-10-06: remote, 0 proposals, free proposal; scope bounded to existing EViews output → table formatting/organization/QA, not statistical analysis or thesis interpretation | Inspect full logged-in brief; submit only if task is formatting/data organization and no academic-analysis authorship is required |
+| 32 | Tasker | Data organization / consolidation | NT$5,000 | **New candidate / 1 public proposal / free proposal** | Direct page TK26013119TIET37 shows remote, Email verified, 1 proposal, free proposal; public scope indicates retail data organization/integration but full fields are login-gated | Inspect full brief; proceed only if it is spreadsheet/data cleanup rather than accounting/proprietary-system work |
+
 ## Active blockers
 - **Upwork:** profile is live and currently 95% complete. Two truthful portfolio items are published. Account Connects balance is 0. Basic membership explicitly shows **0 Connects per month** and Connects History currently has no credits/transactions. This does **not** prove the account can never receive free Connects; onboarding/activity/promotion rewards can still appear. Project Catalog is a proven no-Connects path and remains active work.
 - **Upwork IDV:** optional proactive Identity Verification Badge costs Connects; do not buy it. Required identity verification, if Upwork separately requests it for compliance or if a free onboarding task explicitly offers Connects, is a different step and should be evaluated separately.
@@ -81,7 +84,9 @@ Last synced: 2026-10-06 (Asia/Taipei)
 2. PRO360 Case 16 — top PRO360 quick-win; prepared, zero-cost route only.
 3. PRO360 Case 17 — second PRO360 priority; Case 01 assets ready, zero-cost route only.
 4. **Tasker Case 06** — submitted free proposal; wait for client response, no paid contact unlock.
-5. **Tasker Case 27** — NT$20,000 B2B lead research / prospect-list collection: remote, 1 public proposal, free proposal; highest new Tasker target.
+5. **Tasker Case 27** — submitted / waiting reply; do not resubmit.
+6. **Tasker Case 31** — NT$10,000 EViews output→tables; remote, 0 public proposals, free proposal; highest new Tasker candidate if full brief stays within formatting/data organization.
+7. **Tasker Case 32** — NT$5,000 data organization/integration; remote, 1 public proposal, Email verified; inspect full brief before bidding.
 6. **Tasker Case 20** — stale / temporarily dropped; only revisit if direct listing reappears.
 6. **Tasker Case 13** — submitted free proposal; wait for client response and request sample/pages before final scope.
 7. Tasker Case 19 — NT$1,500 Word formatting quick-win if ~1–2 hours.
