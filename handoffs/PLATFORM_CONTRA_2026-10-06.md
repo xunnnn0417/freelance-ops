@@ -30,3 +30,20 @@ Contra 官方 2026 說明顯示：Independent 可免費建立 profile、找工�
 2. 搜尋 data entry / research / data analysis / operations / Python automation / spreadsheet / AI ops。
 3. 每個值得投的案建立 `標案NN｜Contra｜簡稱｜狀態` 並同步 CASE_INDEX。
 4. 能免費 Apply 就直接推進；身份驗證、付款或正式法律條款需本人操作時才停。
+
+
+## 2026-10-06 public scan update
+Public Contra pages were screened while the authenticated jobs feed remains blocked by login.
+
+### Current priority
+1. Case 28 — AI-Powered Job Board Scraper Development — US$300–400 fixed / 1 week. Strongest fit; proposal, scope gates and QA ready.
+2. Case 29 — Marketing Assistant for Launch Campaign — US$1,500–2,500 fixed / 6 weeks. Conditional fit if research/launch ops, not senior paid-media ownership.
+3. Case 30 — AI-Powered Digital Ops Lead — US$40–65/hr / 20 hrs weekly ongoing. High value but seniority and UK-preference must be checked after login.
+
+All three case files are committed under `cases/` and CASE_INDEX is synchronized.
+
+### Second public scan
+Additional searches across automation, research, operations, data and lead generation did not reveal a newer public candidate that clearly beats Cases 28–30 on speed-to-close plus deliverability. A publicly indexed older post for a one-day retyping/data-entry job ($500–999) was observed, but it appears about four months old and is not promoted without a live-status check.
+
+### Single blocker
+Actual job-detail/apply flow redirects to Contra login. Continue public scanning and asset preparation; stop only at actual login/2FA/identity/legal acceptance. Never buy Contra Pro or paid exposure.
