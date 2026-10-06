@@ -40,12 +40,16 @@ Last synced: 2026-10-06 (Asia/Taipei)
 
 | 25 | PRO360 | Datong 1–50-row Excel data entry | NT$500–1,500 framework | **Ready / zero-cost only** | 2026-10-06 public page: certified, online, 1–50 rows, one-week window; safety/delivery/price/timeline/proposal/QA committed | Submit only if account has truly free official credit/activity/zero-charge route; otherwise remain ready |
 
+| 28 | Contra | AI-Powered Job Board Scraper Development | US$300–400 fixed | **Contra priority #1 / proposal ready / login-to-apply** | Public featured programming jobs page rechecked 2026-10-06: 1-week delivery; Contra page says programming jobs can apply free; safety/scope/price/proposal/QA committed | Login → verify full scope/client/competition/anti-bot constraints → free Apply if still eligible |
+| 29 | Contra | Marketing Assistant for Launch Campaign | US$1,500–2,500 fixed | **Contra priority #2 / conditional fit / login-to-apply** | Public remote marketing page rechecked 2026-10-06: 6-week fixed project, PST; proposal/ops QA prepared without claiming senior marketing experience | Login → confirm role is research/launch ops rather than senior paid-media ownership → free Apply if fit |
+| 30 | Contra | AI-Powered Digital Ops Lead | US$40–65/hr, 20 hrs/wk | **Contra priority #3 / high-value / experience gate pending** | Public featured tech page rechecked 2026-10-06: ongoing, GMT 0, remote or UK preferred; transparent proposal + automation QA prepared | Login → confirm UK preference vs requirement and lead/seniority expectations → free Apply only if hands-on builder scope fits |
+
 ## Active blockers
 - **Upwork:** profile is live and currently 95% complete. Two truthful portfolio items are published. Account Connects balance is 0. Basic membership explicitly shows **0 Connects per month** and Connects History currently has no credits/transactions. This does **not** prove the account can never receive free Connects; onboarding/activity/promotion rewards can still appear. Project Catalog is a proven no-Connects path and remains active work.
 - **Upwork IDV:** optional proactive Identity Verification Badge costs Connects; do not buy it. Required identity verification, if Upwork separately requests it for compliance or if a free onboarding task explicitly offers Connects, is a different step and should be evaluated separately.
 - **Tasker:** account prerequisites are now completed enough for ordinary free proposals. Cases 06 and 13 have been submitted successfully. Some direct case pages still state **free proposal, further negotiation requires TaskerGo**; never purchase TaskerGo/T Points or pay to unlock contact. Continue free proposals and wait for client acceptance before chat/contact.
 - **PRO360:** official PRO360 guidance confirms ordinary manual quoting requires paying quote fees/stored value/credits. Automatic estimate/promotion can be free to send, but it charges when a customer actively contacts the expert. Under the zero-paid-bid rule, do not buy, spend, or enable paid quote/contact budget. Public leads may still be screened and prepared, but submit only if a genuinely free official route or no-purchase free credit appears.
-- **Contra:** do not buy Contra Pro or paid exposure; pursue only free apply/contact paths.
+- **Contra:** public featured pages can be screened without login and currently expose several candidate summaries, but opening the private jobs/apply flow redirects to login. Do not buy Contra Pro or paid exposure. Current single action blocker is user authentication for the actual Apply step; continue public scanning and proposal preparation meanwhile.
 - **GitHub:** `freelance-ops` is public. Public/sanitized data only until visibility changes.
 
 ## Upwork profile snapshot
@@ -69,6 +73,9 @@ Last synced: 2026-10-06 (Asia/Taipei)
 - Do not spend on optional IDV badge, availability badge, boosting, Freelancer Plus, or Connects bundles
 
 ## Priority order
+1. **Contra Case 28** — AI-Powered Job Board Scraper Development, US$300–400 / 1 week; strongest Contra fit; login then verify full scope and free Apply.
+2. **Contra Case 29** — Marketing Assistant for Launch Campaign, US$1,500–2,500 / 6 weeks; apply only if role is research/launch ops, not senior paid-media ownership.
+3. **Contra Case 30** — AI-Powered Digital Ops Lead, US$40–65/hr; high value but seniority/UK-preference gate; only apply if hands-on automation-builder scope fits.
 1. **Upwork Project Catalog draft 2107203936856860845** — no Connects path; finish category → Pricing → Gallery → Requirements → Description → Review.
 2. PRO360 Case 16 — top PRO360 quick-win; prepared, zero-cost route only.
 3. PRO360 Case 17 — second PRO360 priority; Case 01 assets ready, zero-cost route only.
