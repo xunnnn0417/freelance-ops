@@ -6,7 +6,7 @@ Last synced: 2026-10-06 (Asia/Taipei)
 - **Do not buy Upwork Connects, Freelancer Plus, paid badges, boosts, TaskerGo, T Points, PRO360 paid contact/bid credits, Contra Pro, or any paid bidding credits/membership/exposure.**
 - User is using freelancing to earn money, not to prepay for access to proposals.
 - **Do not park Upwork entirely.** Continue checking and completing legitimate free-Connects/onboarding opportunities, free educational rewards, client invitations, talent-badge rewards, promotions, Project Catalog, and any genuinely free-to-apply route.
-- Do not spend further time researching paid bidding options.
+- Do not spend further time researching paid bidding options.\n- **Freelancer.com:** official fees page currently requires at least US$20 available account balance before placing a bid. Treat this as a pre-funding barrier under the zero-paid-bid rule; do not pursue unless the requirement changes or a genuinely zero-balance route appears.
 
 | ID | Platform | Case | Pay | Status | Last action | Next step / blocker |
 |---|---|---|---:|---|---|---|
