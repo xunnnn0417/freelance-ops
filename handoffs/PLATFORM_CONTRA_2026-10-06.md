@@ -47,3 +47,13 @@ Additional searches across automation, research, operations, data and lead gener
 
 ### Single blocker
 Actual job-detail/apply flow redirects to Contra login. Continue public scanning and asset preparation; stop only at actual login/2FA/identity/legal acceptance. Never buy Contra Pro or paid exposure.
+
+## 2026-10-06 14:42+08 authenticated-state update
+- Google sign-up/login completed by user; Independent workspace exists and Free plan is selected.
+- One-liner: `Web Research & Data Entry | Excel & Data Cleaning`.
+- Login is **not** a blocker anymore.
+- Free Jobs feed currently exposed only three unsuitable roles (CTO, logo/landing page, Kajabi); no proposal sent.
+- “All 209” jobs view is behind Contra Pro; zero-paid-bid rule means do not upgrade.
+- Public Featured Programming/Coding pages still show Case 28 `AI-Powered Job Board Scraper Development` at US$300–400, one-week delivery, and the category page says jobs can “apply free”; however the public page does not expose a direct per-job detail URL in its HTML, so no verified public bypass to Apply was found.
+- Public re-scan across data entry / market research / data analysis / operations / Python found no stronger current free-route candidate than Case 28. The Data Entry and Google Sheets hire pages mostly expose freelancer services or closed historical jobs, not live applyable work.
+- Keep Cases 28–30 ready; only submit after the live Free feed or a verified direct free-detail route exposes the role and a second QA confirms scope/safety/fit.
