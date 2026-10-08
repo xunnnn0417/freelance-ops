@@ -1,5 +1,17 @@
 # Case Index
 
+## 2026-10-09 05:05–05:15 direct platform verification
+
+**New direct on-platform evidence; this supersedes the 04:57 descriptions where they disagree. All operations used the user's EXISTING logged-in Brave browser; no paid browser agent, no quotes/purchases, no new proposals submitted.**
+
+- **Eason Lin, PRO360 Shopee 125-item NT$3,500 conditional quote:** Directly opened existing authenticated thread `https://www.pro360.com.tw/dashboard/works/2690835760` and checked chat. Our **2026-10-08 07:59** message is labeled **read**; customer sent contact information at **18:55**; crucially **our existing 23:54 follow-up** asked whether product names, prices, variation specs and photos are already available, for a 3–5-item example and desired date, explaining that cost/scope would be agreed before work. **23:54 message sent successfully and is the latest message; no new customer reply by 05:05.** Do **not** send another follow-up or call unsolicited. **Still negotiating / no signed agreement, no materials, no payment.** Customer phone/email/private data are deliberately absent from repo. See [case brief](cases/pro360-shopee-125-product-discussion.md).
+- **Tasker Weebly → WordPress, `TK26100816ORGG54`, NT$5,000:** Opened the *authenticated* case and proposal form. **10 experts already talking to client; direct form's bidding floor = 240 proposal-boost credits; account available credits = 0.** Lowering input to zero shows `不可低於最低底價`, i.e. cannot free-bid this case using current account. **NOT SUBMITTED / PAID CREDIT BLOCKER — drop while zero-spend rule applies.** No credits purchased, no form submitted. See [case brief](cases/tasker-weebly-wordpress-migration.md).
+- **Lionbridge Traditional Chinese (Taiwan) Translation Review:** Opened official live Lever application. This is a genuinely free website application but has required **uploaded CV, own age >=18 certification, own spoken/written English proficiency (Basic/Conversational/Professional/Native), mother tongue, other professional-level language, residency, own motivation text** plus applicant-submission data processing. The connected Gmail Volcus application contains our existing English PDF resume, but file transfer from Gmail connector to authorized remote desktop was **blocked by the tool's security guard**. **DO NOT workaround the security rejection.** No verifiable answers for user-declared age/English proficiency and no CV on Windows. **NOT APPLIED / WAITING VERIFIED USER DECLARATIONS + AUTHORIZED CV UPLOAD.** Optional future-jobs marketing consent left unchecked. See [case brief](cases/lionbridge-zh-tw-translation-review.md).
+- **No new hire, signed contract or revenue is evidenced in this pass.** Existing paid outreach under [OUTREACH_INDEX.md](OUTREACH_INDEX.md) remains in reply-monitor state.
+
+---
+
+
 ## 2026-10-09 04:57–05:00 TPE status check (supersedes previous delivery assumptions)
 - **BOJU Taiwan subcontract outreach bounced:** Gmail Delivery Status Notification after the Oct 9 02:47 send explicitly says `NoSuchUser` for its public contact inbox. The business's official website *still* lists that address, but current deliverability is negative. **NOT DELIVERED / NOT WAITING for reply. Do not resend**, do not send to recruitment inbox solely as an alternate. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md).
 - **Verified prior send readbacks:** Lifeupdate Consulting and TWMEC outreach both have Gmail `SENT` readback with original address. Sending alone is not delivery or acceptance.
