@@ -12,6 +12,16 @@ This public tracker is sanitized. It does not store email addresses, client cont
 
 No contract signed; no payment received. Do not resend to these recipients unless there is an actual new inquiry or an explicitly planned, timed follow-up.
 
+
+## Added 2026-10-08 (subsequent same-day batch)
+| Date | Company (public) | Fit / offer | Evidence | Status |
+|---|---|---|---|---|
+| 2026-10-08 | GOODSQUAY (GSQ) | Shopee/momo small listing-field and SKU QA paid pilot | Gmail send action returned message ID; independent reread temporarily unavailable | Sent by API / awaiting readback / waiting reply |
+| 2026-10-08 | Lifeupdate Consulting | **Only** remote external paid project overflow, *not* an application to their on-site-only brand ecommerce assistant role | Gmail send action returned message ID; independent reread temporarily unavailable | Sent by API / awaiting readback / waiting reply |
+| 2026-10-08 | Starlinkmart | Ecommerce assistant / product data support | Gmail send action returned FORBIDDEN; no delivery confirmation | **NOT SENT / do not retry until access issue resolved** |
+
+**Connector issue:** Following the two successful send API results, Gmail search/read actions returned a FORBIDDEN error. Do not infer a bounce or account ban; do not claim an independent SENT-label readback was completed for these two. Do not blindly resend the third message, as deliverability must be independently checked first.
+
 ## Next-step QA
 - Check real inbound replies (not marketing emails or delivery notifications).
 - Prioritize messages about pilot quantity, materials, NDA, pricing, deadline, and remote delivery.
