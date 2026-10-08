@@ -23,6 +23,9 @@
 
 - **2026-10-08 remote part-time Python/API application to Volcus / 富可世有限公司**: application submitted by email with PDF resume; Gmail `SENT` and actual attachment read-back confirmed. Advertised hourly wage NT$196, listing not guaranteed current; no hiring yet. See [AI_JOBS_2026-10-08.md](AI_JOBS_2026-10-08.md) for fit and follow-up. Do not resend.
 
+- **Further agency outreach, 2026-10-08:** GOODSQUAY and Lifeupdate Consulting sent via official published business email; each Gmail send action returned a message ID, but independent SENT reread later returned Gmail FORBIDDEN. Starlinkmart attempt returned FORBIDDEN and is **NOT marked sent**. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md). Neither is revenue or a signed agreement.
+- **AI suitability / new role checks:** Welo Mandarin audio, OneForma Taiwan audio-transcript QA, and OneForma Taiwan intent/response annotation are open official pages, **not applied**; TELUS remote Chinese part-time also listed. Lifeupdate public assistant vacancy is onsite-only, so excluded. Details in [AI_JOBS_2026-10-08.md](AI_JOBS_2026-10-08.md).
+
 ### Operating priority
 1. Check real replies and paid/accepted statuses without duplicate messages. Prioritize PRO360 Shopee lead's **next inbound reply only**, managed in existing customer chat.
 2. Apply to legitimate remote part-time paid AI assessment/data jobs and agency overflow projects when real eligibility is met, using free verified routes; maintain previously submitted AI applications.
