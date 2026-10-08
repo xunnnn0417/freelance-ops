@@ -1,5 +1,14 @@
 # Case Index
 
+## 2026-10-09 ~05:16 TPE new verified agency outbound
+
+- Sent **one distinct new inquiry to HHGalaxy (欣新網)** after checking official website operational fit and official public contact mailbox; Gmail no prior thread / no duplicate, **single-message SENT readback verified**, not a signed pilot or payment. Offer is an optional remote **paid 20–50-item product data QA trial**, no promise of marketplace credentials/ads/results. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md).
+- New corrected source of truth below: PRO360 Eason 23:54 already followed up, no new response by 05:05; Tasker migration new case requires 240 credits with account balance zero, so blocked under no-spend rule; Lionbridge official form requires real age/English/professional-language answers and attached CV, not submitted.
+- This batch introduced **one actually sent nonduplicated agency email**, zero platform proposals, zero credit spend, and zero signed client contracts. Await genuinely new messages rather than resend old threads.
+
+---
+
+
 ## 2026-10-09 05:05–05:15 direct platform verification
 
 **New direct on-platform evidence; this supersedes the 04:57 descriptions where they disagree. All operations used the user's EXISTING logged-in Brave browser; no paid browser agent, no quotes/purchases, no new proposals submitted.**
