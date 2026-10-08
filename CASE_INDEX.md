@@ -1,5 +1,21 @@
 # Case Index
 
+## 2026-10-09 ~05:38 new free-route search and two verified outbound inquiries
+
+**Actual executed actions (no extra expenditure):**
+- Found official Taiwan business pages and contacted **Digital Origin / 美勢科技** (multi-marketplace operation, sku and product data) and **YAWE / 雅云企業** (ecommerce channel / product-data operations); each has a distinct real business mailbox. Checked Gmail `in:anywhere` first: **no earlier email to/from either address**. Sent two individually scoped **remote paid 20–50-item SKU / spreadsheet QA subcontract trial** inquiries. Independently read back both Gmail messages: **SENT, correct recipient, body and subject**. **No real reply, acceptance or earnings yet; do not resend.** Refer to [OUTREACH_INDEX.md](OUTREACH_INDEX.md).
+- **104 candidate `94uvj`, 荒野國際網站資料搬遷／商品上架:** Search index advertised NT$200/hour, 10-day short flexible/remote data migration and ~11–30 applicants. **Actual direct browser 2026-10-09 now shows `哎呀！你要找的職缺已關閉了`. DROP / cannot apply.** Earlier search snippet is stale. Do not misstate as open.
+- **1111 candidate `132207438`, 希望製造研究及數據分析兼職助理:** Search index advertised flexible remote data/international economy research articles from NT$1,000/piece. **Direct browser at 2026-10-09 displayed `您要找的職缺或公司已經結束徵才了`. DROP / cannot apply.** Earlier search snippet is stale.
+- **Freelancer.com official fee rules:** free account initially has 6 bids/month, **but at least US$20 available account balance required to place ordinary bid**, not a charge but a funding hold; user's no-additional-funds rule excludes it for now. No funds added/registration changes. Official source: https://www.freelancer.com/feesandcharges.
+- **Welo Taiwan Mandarin/Guoyu ~50 min audio official posting remains open:** https://jobs.lever.co/weloglobal/48352502-669d-462e-a436-f77b09c41094. **NOT APPLIED**: mandatory truthful English competency, Taiwan regional accent and comfort with scripts containing curse words; no invented choices. Two other Welo jobs already applied; no duplicates.
+- **Eason PRO360:** still last direct verified status as of 05:05, our 23:54 follow-up is latest; no further unsolicited call/message sent. Existing client01 chat preserved.
+- **Net:** two new verified Gmail SENT outbound messages; **new client signed: zero**, **new platform job applications: zero**, **new paid receipt: zero**, **extra spend: zero**. This is not a confirmation that the companies received or accepted the inquiries.
+
+**Next gate:** monitor for the first interested human replying with work sample, scope, budget and timeline; confirm deliverability and vendor risk, then quote a bounded paid pilot. Keep finding truly open, no-cost directly applyable roles and client projects; always verify source portal *before* classifying as actionable.
+
+---
+
+
 ## 2026-10-09 ~05:16 TPE new verified agency outbound
 
 - Sent **one distinct new inquiry to HHGalaxy (欣新網)** after checking official website operational fit and official public contact mailbox; Gmail no prior thread / no duplicate, **single-message SENT readback verified**, not a signed pilot or payment. Offer is an optional remote **paid 20–50-item product data QA trial**, no promise of marketplace credentials/ads/results. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md).
