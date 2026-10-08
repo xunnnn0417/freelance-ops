@@ -1,5 +1,15 @@
 # Case Index
 
+## 2026-10-09 04:57–05:00 TPE status check (supersedes previous delivery assumptions)
+- **BOJU Taiwan subcontract outreach bounced:** Gmail Delivery Status Notification after the Oct 9 02:47 send explicitly says `NoSuchUser` for its public contact inbox. The business's official website *still* lists that address, but current deliverability is negative. **NOT DELIVERED / NOT WAITING for reply. Do not resend**, do not send to recruitment inbox solely as an alternate. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md).
+- **Verified prior send readbacks:** Lifeupdate Consulting and TWMEC outreach both have Gmail `SENT` readback with original address. Sending alone is not delivery or acceptance.
+- **Other targeted Gmail checks:** no new real reply or offer from the known agency, Welo or Volcus sender addresses; none of the queried new notices confirms hiring/payment. No Eason direct PRO360 inbox validation in this pass. Latest Eason activity remains 10/08 18:55 monitor-observed follow-up with a phone number, **not** a signed agreement.
+- **Known free-bid candidate:** TK26100816ORGG54 Weebly → WordPress still **NOT submitted** (login-gated case details, redirects and free route unverified).
+- **Actions taken:** updated outreach index and controller index; did not buy credits, send duplicates, place bids, accept work or change customer chats.
+
+---
+
+
 ## 2026-10-09 02:44–02:50 TPE controller pass
 
 **Actually completed:**
