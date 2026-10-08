@@ -1,5 +1,15 @@
 # Agency overflow outreach — 2026-10-08 (Asia/Taipei)
 
+## 2026-10-09 05:38 Taiwan — Digital Origin and YAWE
+
+| Organization | Why contacted | Verified action / follow-up |
+|---|---|---|
+| Digital Origin / 美勢科技 | Official ecommerce-operation pages explicitly mention Shopee/momo/PChome listing and SKU/brand field prep. Asked about a strictly bounded **20–50-item remote paid data/QA trial**, not marketing outcomes or handling account passwords | Official business email on site (hi@digitalorigin.tw), checked Gmail no earlier correspondence; Gmail send succeeded and **single-message readback verified SENT, correct to/body/subject**. **Waiting, no contract.** |
+| YAWE Enterprise / 雅云企業 | Official contact page offers distinct ecommerce-channel and general-business collaboration windows. Used **general business inquiry** (rather than consumer returns/customer service), asked if in-house product-data team uses external paid spreadsheet/SKU QA subcontractors | Official **general business mailbox** (sales@yawe.com.tw), checked Gmail no prior correspondence; Gmail send succeeded and **single-message readback verified SENT, correct to/body/subject**. **Waiting, no contract.** |
+
+**Caution:** These public inboxes are confirmed listed by the businesses, but **SENT does not prove end-to-end delivery or recipient reading**. Check later for bounce/human reply. Never send the same introductory inquiry again; do not promise any client deliverables or begin unpaid trial. The previously invalid BOJU address remains BOUNCED and untouched.
+
+
 ## 2026-10-09 05:16 Taiwan — HHGalaxy targeted inquiry
 
 - **HHGalaxy / 欣新網**: verified company official ecommerce-operation / cross-channel data business and exact public customer-service contact from its own official website; an authorized Gmail `in:anywhere` check showed no previous messages to/from that address before first contact. Sent one personalized *bounded paid-subcontract* inquiry to the official generic business mailbox about 20–50 product SKU / listing QA paid pilot, and offered **transparently synthetic** data-quality example. **Gmail single-message readback: SENT, correct recipient and body**, on 2026-10-09 Taiwan 05:16. **Await response, no contract, no payment; do not resend.** Message ID remains in Gmail, not public repo.
