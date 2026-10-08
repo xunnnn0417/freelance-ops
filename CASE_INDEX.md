@@ -1,5 +1,31 @@
 # Case Index
 
+## 2026-10-08 authoritative status addendum (Asia/Taipei)
+> This dated addendum supersedes older status/blocker text below when they conflict. Evidence types are distinguished: platform read-back reported in 2026-10-08 handoff versus current Gmail search. Do not infer hiring/payment from application acknowledgement. Public repository: no client private contact information.
+
+### Real clients / revenue
+- **PRO360, Shopee product listing, 125-item initial scope:** a human prospect asked for details at 2026-10-08 07:03. Reply was **sent and read back inside PRO360 at 07:59/08:01**, per verified prior case-chat handoff. NT$3,500 is only a proposed price for up to 125 items with supplied materials; extra variant handling/image retouch/copy requires rescoping. **Waiting for prospect sample/details; not hired, not paid, not started. DO NOT resend the 07:59 message.** Dedicated customer chat already exists; keep negotiation/delivery details there.
+- **Revenue actually received from these freelance cases: NT$0 verified.** No confirmed signed contract or incoming payment. New client conversation gets a separate project customer chat only if not already created.
+
+### Newly checked 2026-10-08
+- Gmail search checked for latest notices; **no newer confirmed human reply than the PRO360 07:03 message in checked inbox** as of the current 2026-10-08 sweep. This is NOT a full live platform-inbox verification.
+- **PRO360 data-entry prospect (51–100 Excel records; multilingual including Japanese; remote; ~1 week):** 2026-10-08 16:08 notification. Promising scope, **not quoted**, must verify actual cost and quality/revisions; platform reward/quote credits cannot be used without advance approval.
+- Additional PRO360 notifications for technical public-works plan writing, academic writing, on-site/transcription jobs were excluded for scope/capability or location reasons.
+- **Tasker free proposals already submitted 2026-10-08:** n8n bounded MVP (TK26093022FFNE22, NT$4–5k); PPT (TK26090810BKGV11, NT$2.5–3k); ecommerce website/Shopee product updating (TK26082622YAWK89, NT$12–20k). **Do not resubmit.** All other cases marked Submitted in older index remain no-resubmit.
+- **Welo Global AI paid-work applications:** Generative AI Analyst | Traditional Chinese and Ads Quality Rater - Mandarin (Taiwan) each acknowledged by company on 2026-10-07; status **Applied / waiting assessment**, NOT hired.
+- **Welo Global new vetted leads, not yet applied:** Mandarin/Guoyu (Taiwan) short remote audio project (official posting describes ~50 min, US$15/hour on tasks completed); AI Trainers Network Traditional Chinese (Taiwan) remote freelance talent pool (no guaranteed tasks). Both application forms require truthful personal eligibility questions and/or resume; never guess legal agreements, birthplace, proficiency or sensitive details. Traditional Chinese (Taiwan) Content Reviewer requires 4 years' professional experience / relevant degree: **exclude from apply**.
+- **Other platforms:** Workana freelancer profile under review; Upwork 0 ordinary Connects, Project Catalog state to verify; Contra Free feed had no suitable accessible applications; Hubstaff profile needs real DOB, do not guess; Guru skipped per user; PeoplePerHour subscription and Freelancer US$20 funding barriers remain no-pay.
+- **Automation:** hourly `接案總監控` task enabled, but app/email notifications were observed disabled; no claim that alert banners are being delivered.
+
+### Operating priority
+1. Check real replies and paid/accepted statuses without duplicate messages. Prioritize PRO360 Shopee lead's **next inbound reply only**, managed in existing customer chat.
+2. Apply to legitimate remote part-time paid AI assessment/data jobs and agency overflow projects when real eligibility is met, using free verified routes; maintain previously submitted AI applications.
+3. Submit new Tasker/free jobs when currently open, scope/cost/QA checked; continue PRO360 only if zero-charge or preapproved reward-credit use; no new browser profile, no speculative click, no subscription.
+4. For every new submission, distinguish Prepared vs Submitted with a platform success read-back. No payment, hiring, or customer reply without evidence.
+
+---
+
+
 Last synced: 2026-10-06 (Asia/Taipei)
 
 ## Global paid-bid rule
