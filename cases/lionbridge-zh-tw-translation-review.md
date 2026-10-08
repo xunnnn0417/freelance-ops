@@ -1,4 +1,16 @@
 # Lionbridge — Translation Review Specialist (Traditional Chinese, Taiwan)
+
+## 2026-10-09 05:10 live application form check
+
+**Status: OFFICIAL FORM OPENED, APPLICATION NOT SUBMITTED.** Do not pretend an application was sent.
+
+- Existing Brave session loaded employer's official Lever job form. *Required*: actual PDF CV upload, name, email, current location, age 18+ **self-certification**, English proficiency self-rating, native tongue, **other professionally proficient language**, resident country, candidate-written 'Why are you interested' brief response. Prior AI job experience is explicitly optional; personal languages / qualifications cannot be inferred from the resume. Recruitment data processing follows application.
+- Optional phone, company and profile URLs; no need to invent an employer. Optional consent to receive future job openings should default unchecked.
+- Found an existing one-page **English resume attached to the verified Volcus sent application in Gmail**. Transferring its connector attachment to the remote Windows computer via available remote command path triggered a **tool security refusal**; do not retry by re-encoding, relaying credentials, using alternative tunnels or manipulating tools around this policy. Therefore the Windows browser has **no verified path to the PDF at this time**.
+- User has not directly attested their 18+ eligibility and **spoken/written English competency category**, nor language professional-level status in this context. Do NOT mark boxes or submit answers as guesses.
+- **Blockers:** (1) truthful user eligibility/language selections; (2) safe authorized CV file upload; (3) user-authored/approved own-words question; (4) only then hit Submit once, and screenshot/read-back success.
+- The existing truthful motivation draft later in this document is a **reference**, not substitute for user's own words if the form specifically asks for them.
+
 Status: **Screened / NOT APPLIED** on 2026-10-08. Do not call this an application.
 Employer's official job: https://jobs.eu.lever.co/lionbridge/bdf315bb-8353-40de-9d29-2e0c592dcdae
 Official apply form: https://jobs.eu.lever.co/lionbridge/bdf315bb-8353-40de-9d29-2e0c592dcdae/apply
