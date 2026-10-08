@@ -1,5 +1,14 @@
 # Tasker — Weebly → WordPress small website migration (candidate)
 
+## 2026-10-09 05:07 authenticated proposal gate (supersedes all earlier 'verify free bid' todos)
+
+- Actual logged-in Tasker detail **and** `https://www.tasker.com.tw/cases/propose?tk_no=TK26100816ORGG54` opened within the user's already running Brave.
+- Client **already talking with 10 experts**; client's visible history 1 posted case, 11 consultations, 8 viewed proposals.
+- Proposal-boost minimum required **240 credits**, current account free/available balance **0**. Moving the number from 240 to 0 displays **`不可低於最低底價`**. The nominally mandatory '投入提案額度' cannot be waived through the visible form.
+- **NOT SUBMITTED; zero-spend rule blocks this opportunity.** Never buy credits or TaskerGo just to bid. Treat as **Skip / credit paywall**. Draft below remains for historical reference only, not an actionable ready-to-send proposal.
+- Direct user instruction remains no extra spend. No screenshot or private third-party details saved to public GitHub.
+
+
 **Status (2026-10-09 Taiwan): PUBLIC listing verified / NOT SUBMITTED / free quote not yet confirmed.** Never call this a won contract.
 
 - **Case:** TK26100816ORGG54
