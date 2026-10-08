@@ -1,4 +1,14 @@
 # PRO360 — Shopee product listing discussion (sanitized)
+
+## Direct readback 2026-10-09 05:05 TPE (supersedes older monitor-only wording below)
+
+- Accessed original PRO360 authenticated chat using existing Brave, not merely an automation notification.
+- Our initial **Oct 8 07:59** proposal message is explicitly marked **已讀** in the platform thread.
+- Customer's **Oct 8 18:55** new chat sent a phone contact route (intentionally OMIT all actual contact details from this public note).
+- **Oct 8 23:54:** our *already sent* second on-platform message asked for example products (**3–5 items**), source title/price/variation/photos completeness, scope as *new vs replacement* listings, target delivery date, and confirmation before accepting the baseline **NT$3,500 / 125 items**. This message appears latest at 05:05 October 9. It is NOT established as read by the client yet.
+- **No later client response**, actual data files or approvals visible. **No further chasing at this time**; wait for the sample, timeline and explicit payment terms and then assess actual workload.
+- **Status: Negotiation / quote provisional / NOT HIRED / NOT PAID.** Do not redundantly send the old suggested response script below. Do not phone or move platform payment/contact outside authorized process.
+
 **Status on 2026-10-08:** REAL PROSPECT, **NEGOTIATING / NOT HIRED / NOT PAID**.
 
 > This is a public repository. Do **not** record the customer's phone, email, screenshots, login credentials, contact URLs with session tokens, private sample data, or actual product information here. The dedicated ChatGPT customer workspace already exists; do not duplicate it.
