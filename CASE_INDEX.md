@@ -1,5 +1,22 @@
 # Case Index
 
+## 2026-10-09 02:44–02:50 TPE controller pass
+
+**Actually completed:**
+- New agency paid-pilot email outreach: **TWMEC / 臺灣移動購物** and **BOJU Taiwan** both independently confirmed with Gmail **SENT** label, correct official business recipient, subject and body; the message includes transparent *synthetic* ecommerce QA example link and asks for 20–50-item **paid**, bounded pilot. Gmail query confirmed no earlier mail to these addresses. Zero purchases. **DO NOT RESEND**. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md).
+- Gmail search through latest checked inbox yielded **no new inbound agency reply** for existing targets and **no employer confirmation of hiring** for Welo or Volcus. Email-only observation; this does NOT establish no PRO360 or Tasker in-platform reply.
+- **PRO360 newest notification 2026-10-09 01:29 Taiwan:** court-related urgent Mandarin and some Taiwanese-language audio/video transcription, requiring trial/evidence accuracy. **Exclude / no quote** due legal use context, dialect quality/schedule uncertainty, and manual quote-credit barrier; client did not directly request us.
+- **Eason**: latest known substantive message remains the **2026-10-08 18:55** monitor-reported reply with phone, but source PRO360 inbox **not re-read**; previous 07:59 questions already solicited sample/variations/ETA. Do not repeat questions or call without grounded agreement.
+- **New Tasker candidate, TK26100816ORGG54**, 2026-10-08 updated remote Weebly → WordPress small site migration, public NT$5,000, ~4 pages and <=10 posts, asks for 301 redirects. Direct public detail is **login-truncated**. Free bid and actual migration/redirect privileges unverified; do not claim proposal was submitted. Natural conditional scope/QA draft: [cases/tasker-weebly-wordpress-migration.md](cases/tasker-weebly-wordpress-migration.md).
+- Other new public Tasker top listings include onsite / advertising / engineering / expert professional tasks outside scope; Tasker older spreadsheet listings are competition-heavy or stale. Do not pursue solely because of high headline budgets.
+- Remote Coupang catalog/Excel job listings reviewed: full-day fixed shifts and/or 4–6-week day training clash with school schedule. Do not submit to these as flexible student gigs.
+- **Incremental actual sends:** 2 new subcontract inquiries; **new confirmed customer contracts: 0, new paid AI/job applications: 0, newly submitted Tasker bids: 0.**
+
+**Order of work:** (1) direct PRO360 Eason new reply verification in existing client chat, (2) new legitimate free/remote low-scope proposals, (3) existing Welo/Lionbridge/OneForma application forms only with accurate identity/consent, (4) wait for paid pilot replies and verify client scope before pricing. No new paid credits/agents/browsers.
+
+---
+
+
 ## 2026-10-08 late-evening verification and action log (Asia/Taipei)
 
 **The entries in this section supersede conflicting earlier candidate priorities. No costs incurred.**
