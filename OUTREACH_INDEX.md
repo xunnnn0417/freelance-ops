@@ -34,6 +34,14 @@ No contract signed; no payment received. Do not resend to these recipients unles
 - Don't send either message again until a justified follow-up interval or a genuine inbound response. No acceptance, paid trial, invoice or cash has been confirmed.
 - The earlier GSQ message has now separately been read back under the Gmail **SENT** label, superseding its earlier "awaiting readback" note. No independent readback yet for Lifeupdate.
 
+## 2026-10-09 04:57 Taiwan — delivery correction and readback
+
+- **BOJU Taiwan**: The 2026-10-09 02:47 outreach **BOUNCED**. Gmail Delivery Status Notification explicitly reports `NoSuchUser` for the published `contact@bojutaiwan.com`. **NOT DELIVERED, remove from waiting-for-reply pool; do NOT resend to the same address.** Company's live official contact and partnership form still show that same undeliverable mailbox, so do not infer that the web page proves deliverability. Official career page lists a separate career recruitment channel, **not suitable to reuse for unsolicited subcontracting by assumption**. No alternative collaboration address has been confirmed.
+- **Lifeupdate Consulting** (2026-10-08 outreach) and **TWMEC** (2026-10-09 outreach): independent Gmail single-message readback verifies the correct business recipient and `SENT` label. Gmail `SENT` alone does not prove delivery, but no corresponding bounce was found in the targeted latest-email search as of this check.
+- New Gmail inbound search for named outreach domains (Lian Ya Cheng, REDDODIGI, Letec, Empower, GSQ, Lifeupdate, TWMEC, BOJU) found **zero matching new employer/agency replies**; bounded email-only search. No proposal acceptance or payment confirmed.
+- **Important:** Older BOJU row below with "Sent / waiting reply" reflects initial Gmail send action *before delivery feedback* and is **superseded by this section**.
+
+
 ## Next-step QA
 - Check real inbound replies (not marketing emails or delivery notifications).
 - Prioritize messages about pilot quantity, materials, NDA, pricing, deadline, and remote delivery.
