@@ -19,7 +19,7 @@
 
 - **Four new agency paid-pilot inquiries sent 2026-10-08, individually read back as Gmail SENT:** Lian Ya Cheng, REDDODIGI, Letec, Empower Data. None has an acknowledged reply or contract as of sending. Do not duplicate outreach. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md).
 
-### Operating priority
+- **AI paid-job prospect screening (official employer pages; no new applications submitted this sweep):** see [AI_JOBS_2026-10-08.md](AI_JOBS_2026-10-08.md). Priority: Welo Mandarin audio micro-project, TELUS Traditional Chinese Media Search Analyst, OneForma Taiwan local maps; all require free, accurate application/eligibility checks. Avoid Welo senior content reviewer and RWS legal specialty.\n\n### Operating priority
 1. Check real replies and paid/accepted statuses without duplicate messages. Prioritize PRO360 Shopee lead's **next inbound reply only**, managed in existing customer chat.
 2. Apply to legitimate remote part-time paid AI assessment/data jobs and agency overflow projects when real eligibility is met, using free verified routes; maintain previously submitted AI applications.
 3. Submit new Tasker/free jobs when currently open, scope/cost/QA checked; continue PRO360 only if zero-charge or preapproved reward-credit use; no new browser profile, no speculative click, no subscription.
