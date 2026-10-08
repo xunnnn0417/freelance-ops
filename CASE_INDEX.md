@@ -17,6 +17,8 @@
 - **Other platforms:** Workana freelancer profile under review; Upwork 0 ordinary Connects, Project Catalog state to verify; Contra Free feed had no suitable accessible applications; Hubstaff profile needs real DOB, do not guess; Guru skipped per user; PeoplePerHour subscription and Freelancer US$20 funding barriers remain no-pay.
 - **Automation:** hourly `接案總監控` task enabled, but app/email notifications were observed disabled; no claim that alert banners are being delivered.
 
+- **Four new agency paid-pilot inquiries sent 2026-10-08, individually read back as Gmail SENT:** Lian Ya Cheng, REDDODIGI, Letec, Empower Data. None has an acknowledged reply or contract as of sending. Do not duplicate outreach. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md).
+
 ### Operating priority
 1. Check real replies and paid/accepted statuses without duplicate messages. Prioritize PRO360 Shopee lead's **next inbound reply only**, managed in existing customer chat.
 2. Apply to legitimate remote part-time paid AI assessment/data jobs and agency overflow projects when real eligibility is met, using free verified routes; maintain previously submitted AI applications.
