@@ -22,6 +22,18 @@ No contract signed; no payment received. Do not resend to these recipients unles
 
 **Connector issue:** Following the two successful send API results, Gmail search/read actions returned a FORBIDDEN error. Do not infer a bounce or account ban; do not claim an independent SENT-label readback was completed for these two. Do not blindly resend the third message, as deliverability must be independently checked first.
 
+## 2026-10-09 Taiwan 02:47 — targeted ecommerce subcontract outreach
+
+| Date | Company | Offer | Evidence | Current status |
+|---|---|---|---|---|
+| 2026-10-09 | TWMEC / 臺灣移動購物 | Cross-platform SKU / listing data cleanup, 20–50-item **paid** pilot; includes illustrative synthetic QA GitHub sample | Gmail send result and independent Gmail **SENT** message/body readback | **Sent / waiting reply** |
+| 2026-10-09 | BOJU Taiwan | WooCommerce/Shopee listing spreadsheet preflight, exception reporting, small **paid** pilot | Gmail send result and independent Gmail **SENT** message/body readback | **Sent / waiting reply** |
+
+- Both recipients were published on the corresponding companies' own websites; Gmail checked **zero previous messages** to either address before sending.
+- As checked shortly before sending, Gmail search had **no matching new inbound messages** from earlier seven targeted local partners; this statement is scoped to those mailbox queries, not the PRO360/Tasker onsite inbox.
+- Don't send either message again until a justified follow-up interval or a genuine inbound response. No acceptance, paid trial, invoice or cash has been confirmed.
+- The earlier GSQ message has now separately been read back under the Gmail **SENT** label, superseding its earlier "awaiting readback" note. No independent readback yet for Lifeupdate.
+
 ## Next-step QA
 - Check real inbound replies (not marketing emails or delivery notifications).
 - Prioritize messages about pilot quantity, materials, NDA, pricing, deadline, and remote delivery.
