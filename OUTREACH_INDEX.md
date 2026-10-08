@@ -1,5 +1,12 @@
 # Agency overflow outreach — 2026-10-08 (Asia/Taipei)
 
+## 2026-10-09 05:16 Taiwan — HHGalaxy targeted inquiry
+
+- **HHGalaxy / 欣新網**: verified company official ecommerce-operation / cross-channel data business and exact public customer-service contact from its own official website; an authorized Gmail `in:anywhere` check showed no previous messages to/from that address before first contact. Sent one personalized *bounded paid-subcontract* inquiry to the official generic business mailbox about 20–50 product SKU / listing QA paid pilot, and offered **transparently synthetic** data-quality example. **Gmail single-message readback: SENT, correct recipient and body**, on 2026-10-09 Taiwan 05:16. **Await response, no contract, no payment; do not resend.** Message ID remains in Gmail, not public repo.
+- Source/fit: https://www.hhgalaxy.com/solutions/ecommerce/ and official contact https://www.hhgalaxy.com/contact/ ; business contact is not established as procurement signoff. No guarantee of reply.
+- **Note:** BOJU already marked **BOUNCED** below; HHGalaxy is a different company, not a retry to the invalid BOJU mailbox.
+
+
 This public tracker is sanitized. It does not store email addresses, client contact details, private message bodies, credentials, or payment information. Refer to authenticated Gmail for full evidence.
 
 ## Delivered to Gmail (SENT verified)
