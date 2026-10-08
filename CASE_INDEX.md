@@ -1,5 +1,32 @@
 # Case Index
 
+## 2026-10-08 late-evening verification and action log (Asia/Taipei)
+
+**The entries in this section supersede conflicting earlier candidate priorities. No costs incurred.**
+
+### Urgent genuine prospect progress (monitor alert, not yet direct platform re-read)
+- PRO360 Shopee client (125 proposed listings, NT$3,500 initial conditional quote): **2026-10-08 at 18:55** monitored PRO360 thread reported a **new follow-up message containing phone contact information**. The source is a 19:18 *接案總監控* email, read via authenticated Gmail; the source platform conversation was **NOT independently re-opened in this controller**. **No contract, deposit or approval; no phone call or duplicate reply.**
+- **Next:** prioritize authorized PRO360 on-platform message read-back; use existing dedicated Client01 ChatGPT room; ask only missing scope information and sample, not an unnecessary duplicate of the 07:59 questions. Sanitized QA and single response option: [cases/pro360-shopee-125-product-discussion.md](cases/pro360-shopee-125-product-discussion.md). Customer contact details NEVER go in public GitHub.
+- Important: older line below saying 'no customer reply since 07:03' was accurate only at its previous check time; this 18:55 development supersedes it.
+
+### Newly screened AI and paid tasks
+- **Lionbridge Translation Review Specialist — Traditional Chinese (Taiwan)**: official remote 1–5 hours/week, US$7/hr; professional translator experience *not* a requirement. **Prepared / NOT APPLIED**: [case brief](cases/lionbridge-zh-tw-translation-review.md).
+- **OneForma Freya — Chinese (Taiwan) Audio Transcription Quality Reviewer**: remote, weekly task releases, qualifying practice test, strong written English and microphone; **Prepared / NOT APPLIED**: [case brief](cases/oneforma-audio-transcription-qa-tw.md).
+- **OneForma Intent/Response Annotator**: **EXCLUDE for now**; Mac/macOS *mandatory* and applicant's known connected computer uses Windows. (Earlier positive suggestion incorrectly omitted this.)
+- **OneForma Podcast Transcription + Speech Annotator**: requires prior transcription/annotation experience; don't invent any. Lower priority.
+- **Welo Guoyu recording and TELUS Taiwan media analyst**: still listed by employer; no submitted application confirmation.
+- A public **synthetic** quality-review demonstration has been created and labeled transparently (not client work): [templates/synthetic-zh-tw-quality-review.md](templates/synthetic-zh-tw-quality-review.md).
+- **Tasker Case 32, TK26013119TIET37 (NT$5,000 data整理)**: direct official page now explicitly says *已關閉 / 不開放提案*. **DROP; do not prepare or submit**, regardless of older cached category list. Verified URL: https://www.tasker.com.tw/cases/TK26013119TIET37
+- Recent Tasker data-entry category listings are mainly old, oversubscribed or specialized/telephone/on-site; no new proposal submission in this pass. Recheck actual direct pages before any proposal.
+
+### Tool/readback limitations
+- Authenticated Gmail main search intermittently returns FORBIDDEN. Alternative `search_email_ids` + `batch_read_email` temporarily succeeded and exposed a previously missed monitoring notice, but later Gmail operations returned FORBIDDEN again. **Do not claim exhaustive inbox or site inbox coverage or suppress alerts based on this error.**
+- No phone calls, charges, duplicate applications or unverified customer messages sent in this pass.
+- Continue cash-flow-first with warm prospect, genuinely free Tasker jobs and AI remote application qualification; user-only consent/ID/password boundaries remain.
+
+---
+
+
 ## 2026-10-08 authoritative status addendum (Asia/Taipei)
 > This dated addendum supersedes older status/blocker text below when they conflict. Evidence types are distinguished: platform read-back reported in 2026-10-08 handoff versus current Gmail search. Do not infer hiring/payment from application acknowledgement. Public repository: no client private contact information.
 
