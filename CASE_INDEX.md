@@ -1,5 +1,31 @@
 # Case Index
 
+## 2026-10-09 ~21:26 — remote technical project assistant application inquiry SENT
+
+**NEW VERIFIED ACTION — DIRECT EMPLOYER OUTREACH, NO PAID CREDITS OR BROWSER AGENT.**
+
+- Employer: **優達盟資訊科技有限公司 / Eudaemonia Technology (EudTech)**. Company registration cross-checked in Taiwan official-backed company data as **active**, incorporation 2024 and registered capital NT$8.2m; NCCU official career portal lists remote part-time **「[台北遠端兼職] 技術專案助理」**: https://cd.nccu.edu.tw/job/view/4049 ; employer website https://eudaemonia.tech.
+- Posted on **2026-02-24** and still discoverable in NCCU portal, but **current vacancy NOT CONFIRMED** due age of listing. Employer's portal listing names a direct recruitment contact at its matching official corporate domain.
+- Before action Gmail `in:anywhere` search confirmed **no prior correspondence** with employer's listed hiring/general contact.
+- **2026-10-09 21:26 Taipei** sent ONE tailored Chinese inquiry/Application Intro to the listed official hiring contact, subject **「應徵／詢問｜遠端兼職技術專案助理｜張世勳」**. It accurately introduces a Chinese University of Technology finance undergraduate, self-directed Python/API and Sheets/Notion documentation-workflow projects, links publicly inspectable GitHub work, asks whether the old posting is still open and what the weekly hours and actual hourly rate are. Clearly **no professional enterprise experience is claimed**. No résumé attachment: a direct employer reply can request detailed CV later.
+- Gmail returned sending message ID and separate **SENT** readback verifies correct recipient, subject and full role/scope/portfolio text. **Status: CONTACTED / INTRO APPLICATION EMAIL SENT / WAITING EMPLOYER RESPONSE; NOT HIRED, NO INTERVIEW, NO PAY**, and not confirmed deliverable until return email/bounce monitoring.
+- **DO NOT resend the initial letter or assume the old vacancy is still open.** An authentic employer response comes before further steps. Any sensitive account/ID, payment request, off-platform advance payment, AI-generated test requests, and scheduling conflicts require fresh QA.
+- Verified public source: https://cd.nccu.edu.tw/company/view/1752 (correct official website and company name); https://findit.sme.gov.tw/tw/Startup/ekhiSnpzRnR1c3hwcWlZc1Y2UUZtdz09/Basic (operational company info).
+
+**Additional screening — not submitted:**
+- Taiwan Tasker case TK26090516JQMG26, NT$2,500 product price data entry: **official page says 已關閉**; do not quote.
+- Tasker remote expo document support TK26093012GBQJ88 NT$10,000: includes phone vendor communication; platform says free proposal but **further negotiation requires TaskerGo**; not aligned with no-phone/no-paid-upgrade constraints.
+- Tasker remote data admin TK26093016FJRT10 NT$10,000: **platform explicitly says 兌換 TaskerGo 後即可提案**, so no-free-route despite attractive 2–3 hours/day headline.
+- Tasker remote Excel rebuild TK26092923YQAF03 NT$500: below usual NT$1,000 quick-win floor; client email unverified and negotiation gated by TaskerGo; skipped.
+- University career portal AI practice assistant (jewelry brand) NT$220–230/hr until Oct 30: requires **in-person 1 day/week in Neihu** and ≥12h/week; skipped given user's remote-only / avoid on-site rule.
+- TSMG Chinese-Taiwan audio transcription https://jobs.lever.co/tsmg/a50a8f63-587f-4053-b2e0-cb0896359874 is legitimately remote/part-time but requires **English CEFR B2**; applicant level unverified and no submission. TSMG QC already submitted and acknowledged Oct 9 at 21:10, **do not reapply**.
+- Welo Taiwan Mandarin audio recording https://jobs.lever.co/weloglobal/48352502-669d-462e-a436-f77b09c41094 requires English proficiency, a CV upload, residency duration and local accent answer; no guesses / no application.
+
+**Net for this pass:** 1 new targeted officially sourced employer introduction **actually SENT and independently read back**; no new paid contract or receipt, no platform bids, no purchases.
+
+---
+
+
 ## 2026-10-09 ~21:11 TSMG ACTUALLY SUBMITTED AND RECEIVED
 
 **This record replaces the previous in-progress TSMG application statements.** One new **verified free job application successfully submitted**.
