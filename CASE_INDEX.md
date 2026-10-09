@@ -1,5 +1,16 @@
 # Case Index
 
+## 2026-10-09 late evening — revise English filter for new jobs
+
+- The applicant explicitly said their English is **not strong** in this project's controller chat. **Do not assume CEFR B2 or fluent English**. Withhold the unsubmitted TSMG Taiwan Chinese Audio Transcription Specialist B2-required application (not submitted, no need to ask again) and all other roles whose mandatory English requirements exceed actual demonstrated ability.
+- The already submitted TSMG Traditional Chinese Taiwan AI/ML QC role is **still applied and employer-acknowledged**; don't withdraw automatically, do not make ungrounded claims about assessment readiness.
+- Prioritize **Mandarin/Traditional-Chinese-language** work with free legitimate application: spreadsheet/data QA, SKU/listing cleaning, Excel/Sheets files and nontechnical localization checks, compatible with university hours. No additional paid platform credits, forced English scoring, or full-time WFH rotation jobs.
+- Screening search did **not** yield a new **verified open, no-cost, flexible remote, low-English job** yet; do not claim a new application or income was achieved by researching. Online postings listing remote work are frequently full-time (e.g. WFH product catalog operator weekdays 9–18), English-fluent (audio annotation), obsolete/expired or very low paid.
+- Existing case records and ongoing watch remain active; no duplicate Eason follow-ups or repeated employer inquiries.
+
+---
+
+
 ## 2026-10-09 ~21:26 — remote technical project assistant application inquiry SENT
 
 **NEW VERIFIED ACTION — DIRECT EMPLOYER OUTREACH, NO PAID CREDITS OR BROWSER AGENT.**
