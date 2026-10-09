@@ -35,4 +35,31 @@ Practice comparing a source statement with a candidate Traditional Chinese (Taiw
 - Is there a **source-backed** reason for each fail?
 - Was confidential/third-party source content excluded from any public sample?
 
+
+## Additional practice — spoken-style zh-TW transcript normalization (2026-10-09)
+
+**Purpose:** Illustrate language-quality control for ASR/transcription projects. All utterances below are invented text, **NOT recordings, real customer audio, paid deliverables, or any employer's qualification test**. Without original audio, no one can independently verify whether a transcription really matches what was said. Always follow the actual employer's style guide instead of imposing these example decisions.
+
+*Illustrative rubric*: check factual preservation **before** cosmetic normalization. A style guide may allow numerals, punctuation or abbreviations differently; those style-dependent cases are marked *Conditional*.
+
+| ID | Invented words as-if spoken (not an audio source) | Draft display text | Example judgment | Why / reviewer next step |
+|---|---|---|---|---|
+| ASR-01 | 「明天早上九點半開會」 | 「明天早上 9:30 開會。」 | Conditional pass | Same time and intent; use Arabic numerals only if employer's style guide permits |
+| ASR-02 | 「這筆費用是五萬元」 | 「這筆費用是 5,000 元。」 | Fail — amount | 50,000 was converted to 5,000; this changes the fact |
+| ASR-03 | 「你不用再付款」 | 「你需要再付款。」 | Fail — negation | Reverses the instruction |
+| ASR-04 | 「寄到臺中市北屯區」 | 「寄到臺中市北投區。」 | Fail — named entity | Different district; must verify against original recording in a real project |
+| ASR-05 | 「這個月三號下午兩點」 | 「本月 3 日下午 2:00。」 | Conditional pass | Date/time preserved, but don't invent the month/year or time zone |
+| ASR-06 | 「有三件還沒收到」 | 「有 3 件還沒收到。」 | Conditional pass | Count and unfinished state retained; spacing is style-guide specific |
+| ASR-07 | 「我講的是二十三，不是三十二」 | 「我講的是 32，不是 23。」 | Fail — swapped quantities | Numerals reversed, even if punctuation is polished |
+| ASR-08 | 「呃，我還不確定」 | 「我還不確定。」 | Needs guide check | Filler omission depends on *verbatim vs clean-read* instruction; do not assume |
+
+### Reviewer checklist for a real recording
+1. Verify **audio versus transcript** first; a readable sentence can still be wrong.
+2. Keep dates, units, digits, time references, negation, names and qualifiers intact; mark unresolved sound segments as **uncertain**, not made-up content.
+3. Separate **meaning-critical error**, **format-only issue**, **regional naturalness**, **inaudible audio**, and **needs rubric clarification**.
+4. For each actual issue, report source timestamp or segment ID (only when supplied), draft phrase, issue type, reason, and recommended correction if the employer permits it.
+5. Do not upload a client's voice, unreleased test prompts, screenshots, or annotated transcripts to a public GitHub repository without written authorization.
+
+This sample demonstrates **self-directed preparation only**, not professional audio/QC experience or guaranteed accuracy on unseen audio.
+
 *For demonstrating a learning/QA process, not representing prior professional assignments.*
