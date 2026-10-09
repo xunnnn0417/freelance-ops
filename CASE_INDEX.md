@@ -1,5 +1,19 @@
 # Case Index
 
+## 2026-10-09 ~21:11 TSMG ACTUALLY SUBMITTED AND RECEIVED
+
+**This record replaces the previous in-progress TSMG application statements.** One new **verified free job application successfully submitted**.
+
+- Applicant authorized necessary TSMG Privacy / Terms / Whistleblower policy acknowledgments in chat, then **personally answered 4–6 hours/day and accepted** three substantive conditions: pay by validated accepted output rather than hourly; freelancer independent contractor working arrangement; short-term repetitive detail-oriented work.
+- Authenticated existing Brave submitted the exact **TSMG Traditional Chinese Taiwan AI/ML Quality Control Specialist** application **ONCE** through the live official Lever form. Lever redirected to https://jobs.lever.co/tsmg/c9382685-c830-4b80-9541-3f7ee4f45f61/thanks showing **Application submitted!** at approximately **2026-10-09 21:10 TPE**.
+- **Independent employer receipt:** Gmail inbox confirmation received **2026-10-09 21:10:57 Asia/Taipei**, subject **Thank you for your application to TSMG**, text explicitly acknowledges this precise job application and says their team will review it.
+- Confirmed user 4–6h/day, Native Traditional Chinese, direct job scope and truthful independent QA portfolio; opted **No** to TSMG Academy promotions, kept ten-year future marketing unchecked, skipped optional U.S. EEO demographics. Resume upload optional/no file uploaded.
+- **Status: SUBMITTED / EMPLOYER RECEIVED / WAITING REVIEW**. **NOT HIRED / NOT YET TESTED / NO CONTRACT / PAY RATE STILL UNDISCLOSED / NT$0 paid**. **DO NOT submit same job again.** When reply arrives, assess test, approved-unit pay, QA/rejection standards, school timetable and contractual terms before user accepts work. Exact status also in [AI_JOBS_2026-10-08.md](AI_JOBS_2026-10-08.md).
+- **Costs:** Zero; work done entirely through authorized existing Brave + Gmail and GitHub trackers.
+
+---
+
+
 ## 2026-10-09 ~21:04 TSMG privacy consent received, extra applicant choices needed
 
 - User authorized **TSMG Traditional Chinese Taiwan AI/ML QC** applicant submission after reading disclosed Privacy/Terms/Whistleblower policies. Authenticated Lever form remains open in user's existing Brave window. **Selected I agree, declined TSMG Academy promotions (No), and C2 Native Chinese**, visually read back.
