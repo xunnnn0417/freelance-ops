@@ -1,5 +1,15 @@
 # Case Index
 
+## 2026-10-09 ~21:04 TSMG privacy consent received, extra applicant choices needed
+
+- User authorized **TSMG Traditional Chinese Taiwan AI/ML QC** applicant submission after reading disclosed Privacy/Terms/Whistleblower policies. Authenticated Lever form remains open in user's existing Brave window. **Selected I agree, declined TSMG Academy promotions (No), and C2 Native Chinese**, visually read back.
+- **Previously undisclosed mandatory eligibility fields** revealed on further scroll: daily availability (only <2h / 4–6h / 6–8h options), comfort with **payment according to validated accepted deliverables, not hours**, comfort with a **freelance Independent Contractor Agreement**, and comfort with **repetitive short-term detail-oriented work**. The terms are substantive and exact daily availability unverified, so we **did NOT guess or submit**; requested user answer. U.S. demographic questionnaire is optional and not filled; separate 10-year future job marketing consent unchecked.
+- **Correct status: TSMG APPLICATION DRAFT IN BROWSER / AWAITING FOUR PERSONAL ANSWERS / NOT SENT.** The existing general resume upload is not required; portfolio sample is clearly synthetic and was already linked. Do not mistake prior policy authorization for explicit agreement to a new piecework payment arrangement or actual freelancer contract.
+- Submit once user confirms answers; take actual page success evidence and check Gmail before recording "Applied." No additional cost or outreach this pass.
+
+---
+
+
 ## 2026-10-09 ~20:52 TSMG application partially completed
 
 - **Cash-flow prospect check**: Gmail queries for known ecommerce paid-pilot partners and job employers found no new human acceptance/hiring reply. Newest notices included unrelated advertisements/banking and a PRO360 **academic thesis writing** inquiry; do **not** quote academic ghostwriting. No payment received.
