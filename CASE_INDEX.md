@@ -1,5 +1,16 @@
 # Case Index
 
+## 2026-10-09 ~20:52 TSMG application partially completed
+
+- **Cash-flow prospect check**: Gmail queries for known ecommerce paid-pilot partners and job employers found no new human acceptance/hiring reply. Newest notices included unrelated advertisements/banking and a PRO360 **academic thesis writing** inquiry; do **not** quote academic ghostwriting. No payment received.
+- **TSMG Traditional Chinese Taiwan AI/ML Quality Control job**: opened employer's official Lever application in existing Brave and **filled real name, known applicant email, location Taiwan, GitHub, truthful independent data/QA experience statement and transparent synthetic QA portfolio link**; visually checked values. **NOT SENT** because page requires explicit personal confirmation agreeing to TSMG Privacy/Terms/Whistleblower policies. The course-promotion selector will be set to **No** only if user authorizes submission. No resume required in this actual form, so no unsafe cross-tool PDF transfer.
+- **Improved portfolio**: GitHub [synthetic-zh-tw-quality-review.md](templates/synthetic-zh-tw-quality-review.md) includes an independently authored, clearly synthetic ASR/transcript-normalization QA matrix (numbers, dates, negation, locations and style uncertainty), expressly **not** claimed to be client work or a real audio evaluation. GitHub readback passed.
+- **Critical next decision**: user needs to explicitly agree to the three TSMG policies after reviewing official texts and approve *this one* application; then select required dropdown, No marketing and Submit. If not approved, leave unsent. Browser fields may be lost on refresh; reproduce safely from this existing source-of-truth note and verified profile as needed.
+- No duplicate customer emails or Tasker bids, no paid credits, no signed contract, no income in this pass.
+
+---
+
+
 ## 2026-10-09 ~20:40 TPE cashflow execution check
 
 **New progress with no extra fees, all delivery labels precise:**
