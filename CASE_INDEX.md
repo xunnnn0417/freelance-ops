@@ -1,5 +1,21 @@
 # Case Index
 
+## 2026-10-09 ~20:40 TPE cashflow execution check
+
+**New progress with no extra fees, all delivery labels precise:**
+
+1. **PRO360 Eason Lin, proposed NT$3,500 / 125 Shopee listings:** independently reopened the authenticated original thread at ~20:37 using the **existing Brave browser**. Our 10/08 07:59 and 23:54 follow-up are now both marked **read**, but **no new client message** appears after 23:54 and no product sample/acceptance. **Negotiating, no purchase order or payment; do not spam another same-day follow-up or phone.**
+2. **Gmail inbound search:** recent nonpromotional inbox notices include generic marketing/financial/personal mail but **no new real customer acceptance/agency reply** in checked partner sender domains and no employment hiring confirmation. Do not claim PRO360 absence based on Gmail alone; direct PRO360 readback above establishes that part. **No new bounced agency letter found** in checked Oct9 email window.
+3. **Three new verified paid subcontract collaboration inquiries** sent to **PINK MARKETING, AMB 品牌電商, 無二電商事務所 (52ec)**, each supported by official live service/contact pages, with Gmail `in:anywhere` prior-contact check showing none, and **independent Gmail SENT/readback** to correct published recipient and body. Each requests small **paid 20–50 item** Excel/SKU/listing-QA pilot, not free product work. Sent is not delivered/accepted. See [OUTREACH_INDEX.md](OUTREACH_INDEX.md). **Do NOT resend.**
+4. **TSMG Taiwan Chinese AI QA roles found via company's OFFICIAL LIVE Lever postings:** QC Specialist https://jobs.lever.co/tsmg/c9382685-c830-4b80-9541-3f7ee4f45f61 is the stronger candidate: remote in Taiwan, part-time, no mandatory past industry employment; training provided and pay **not publicly disclosed**. Opened actual application form on existing Brave: required full name/email and truthful skills comment; legally significant checkbox explicitly certifies agreement with Privacy Policy, T&C and whistleblowers rules; do not consent on applicant's behalf. **NOT APPLIED**. Separate Taiwan Chinese Audio Transcription role https://jobs.lever.co/tsmg/a50a8f63-587f-4053-b2e0-cb0896359874 requires English B2, still unknown, **NOT APPLIED**. Related “Chinese Data Verification” remote metadata is misleading: **must reside Ukraine and make calls**, excluded. See [AI_JOBS_2026-10-08.md](AI_JOBS_2026-10-08.md).
+5. **Other official screened:** Appen Mandarin Taiwan Project Melora requires iPhone 17 series, 18+ and pays per approved session only; user device/age unknown. Welo Taiwanese content reviewer advertises $24/hr but explicitly demands 4 years experience, so skip; do not overstate profile.
+6. No Tasker new paid-credit bid attempted and no charges. Prior Tasker Weebly case still gated by **240 paid credits vs current zero**. Prior Welo two applications and Volcus sent application remain *waiting response*, not employment. No new confirmed job application or contract in this pass.
+
+**Next priority:** one real inbound customer negotiation > genuine free job-form acceptance after applicant privacy/terms review > other targeted bounded paid subcontract pitches. Maintain source-of-truth and avoid false “ready = submitted”.
+
+---
+
+
 ## 2026-10-09 ~05:38 new free-route search and two verified outbound inquiries
 
 **Actual executed actions (no extra expenditure):**
