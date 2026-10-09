@@ -1,5 +1,16 @@
 # Agency overflow outreach — 2026-10-08 (Asia/Taipei)
 
+## 2026-10-09 ~20:36 TPE — three newly sent targeted inquiries
+
+| Official company | Official business / listing evidence | Outreach scope and confirmed result |
+|---|---|---|
+| **PINK MARKETING / 粉紅行銷** | https://www.pinkmarketing.com.tw/ecommerce-operations , official website contact page | 20–50-item **paid pilot** for Shopee/momo/PChome prelisting SKU/spec/image QA. Gmail checked no prior correspondence with exact official business recipient. **Send result + independent SENT/to/subject/body readback confirmed**. Await response. |
+| **AMB 品牌電商** | https://www.amb.tw/brand-operation-solutions/ , official contact address on service page | 20–50-item **paid pilot** for Shopify/WordPress import sheet, variants and image matching QA. No prior messages with exact official recipient. **Gmail send + independent SENT/to/subject/body readback confirmed**. Await response. |
+| **無二電商事務所 (52ec)** | https://52ec.tw/taipei/ , official general contact email on site | 20–50-item **paid pilot** for Shopee/momo sheet normalization and duplicate/missing-field exceptions. No previous messages with exact official recipient. **Gmail send + independent SENT/to/subject/body readback confirmed**. Await response. |
+
+All messages are **distinct, tailored to published services** and link to a **synthetic** (not client-work) listing QA example. No free production work offered; no price, backend access or delivery time promised without source sample. **SENT does not prove recipient inbox delivery**; monitor for bounce and human acceptance, never resend same intro blindly. No signed orders or payment recorded.
+
+
 ## 2026-10-09 05:38 Taiwan — Digital Origin and YAWE
 
 | Organization | Why contacted | Verified action / follow-up |
