@@ -1,5 +1,19 @@
 # Case Index
 
+## 2026-10-12 demand-first paid-gig execution pivot
+
+**User reconfirmed focus:** find work for which a client/employer already budgets money, instead of guessing demand, cold-emailing unrelated agencies, creating paid templates without buyers, or counting message volume as progress. Match user's Chinese-speaking Taiwan, remote student schedule, no paid bidding credits, no telephone cold calling, no professional licenses, and **weak English**. Genuine work delivered and bank receipt > submitted > accepted > interested human > prepared > found.
+
+- New screened **paid-demand / posted employer** lead **雋永設計文創事業**: https://www.1111.com.tw/job/132822851/ — remote ecommerce product/image updates for five channels, 2–3 agreed slots weekly, experience and foreign languages not required; published compensation `論件計酬 NT$196–250` has **UNCONFIRMED UNIT**, so verify each payable unit, revisions, platform login, workload, tax/contract before acceptance. Company registry matches MOEA. Not previously contacted in Gmail, but public posting only supplies contact person and 1111 application button, **no verified direct hiring email**. **NOT APPLIED**, don't claim sent. A truthful candidate statement and QA work sample are ready in [screened paid-gigs brief](cases/2026-10-12-prebudgeted-remote-gigs.md). Next: complete 1111 free in-platform application only in verified authorized user session, read back confirmation.
+- Conditional secondary lead **好酷商行 / 76DollShop**: https://www.1111.com.tw/job/132798536, fully remote ecommerce listings, 3–5h/day; **adult-products industry** and older posting / unknown competition. Do not send an application without user's okay with this employer category. Gross `NT$5k–50k` listing range is not guaranteed pay.
+- CrowdGen/Appen Taiwanese voice collection **Mewtwo** has an official quoted piece rate `US$0.83/task` (US$9.96/h is an *estimate*, not guaranteed), but the official referral project milestone dates were **Oct7/Oct9**, already past on Oct12; **current active assignments NOT verified**, so do not market as immediately earning. Scripted mock calls are NOT dialing real people but require user age/identity/microphone and qualification checks. Audio transcription variant involves some English; not first priority. See [screened paid-gigs brief](cases/2026-10-12-prebudgeted-remote-gigs.md).
+- Gmail Oct12 matched **no new real agency replies**, no new employer offer or TSMG exam from targeted searches. Prior genuinely submitted TSMG QC application and seven Tasker free bids remain as tracked; no duplicates. No new paid bids, charges, agency cold emails, job applications or contracts in this search pass; **new banked earnings NT$0**.
+
+**Do not misinterpret a job listing as a confirmed live free-submission form.** Official 1111 job listing and registry are grounded, but full employer in-platform application readback was **not performed** in this pass. Keep waiting-for-login distinct from applied. The existing project index was updated to preserve the shorter action plan; brief contains exact recruiter-facing wording.
+
+---
+
+
 ## 2026-10-12 03:22 Asia/Taipei — all-project status audit (live checks, no new bids or emails)
 
 **Purpose:** Fresh source-of-truth readback from live Gmail, original PRO360 customer thread, Tasker public home page, enabled automations, and existing GitHub/Notion records. This section **supersedes all older wording that calls TSMG QC 'not applied' or Upwork Project Catalog 'in review'**, and is NOT evidence of current real-time Tasker account replies.
